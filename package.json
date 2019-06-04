@@ -90,20 +90,6 @@
     "typescript": "^3.3.3333"
   },
   "dependencies": {
-    "app-root-path": "^2.0.1",
-    "buffer": "^5.1.0",
-    "chalk": "^2.4.2",
-    "cli-highlight": "^2.0.0",
-    "debug": "^4.1.1",
-    "dotenv": "^6.2.0",
-    "glob": "^7.1.2",
-    "js-yaml": "^3.13.1",
-    "mkdirp": "^0.5.1",
-    "reflect-metadata": "^0.1.13",
-    "tslib": "^1.9.0",
-    "xml2js": "^0.4.17",
-    "yargonaut": "^1.1.2",
-    "yargs": "^13.2.1"
   },
   "lint-staged": {
     "*.ts": [
